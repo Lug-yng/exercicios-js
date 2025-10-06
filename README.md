@@ -17,7 +17,7 @@ Cada arquivo contém um pequeno desafio prático para treinar **lógica de progr
 | Exercício | Descrição | Arquivo |
 |------------|------------|----------|
 | 🧮 Média de Notas | Calcula a média de 3 valores e mostra o resultado formatado com 2 casas decimais. | `medianotas.js` |
-| 🔢 Par ou Ímpar | (em breve) Determina se um número é par ou ímpar. | `parimpar.js` |
+|🔢 Par ou Ímpar | Verifica se um número é par ou ímpar usando o operador módulo. |     `exercicio2_parimpar.js` |
 | 🔄 Contador | (em breve) Faz um contador de 1 a 10 usando loops. | `contador.js` |
 | 🙋 Saudação | (em breve) Exibe uma mensagem personalizada. | `saudacao.js` |
 
